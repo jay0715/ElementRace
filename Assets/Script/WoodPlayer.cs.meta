@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b9b1f0160d5b22346ac4bef5c5bfa012
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - photonView: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - PlayerCamera: {instanceID: 0}
+  - sr: {instanceID: 0}
+  - PlayerNameText: {instanceID: 0}
+  - woodChar: {fileID: 9100000, guid: 13b46b7fcb847ac44915702e93904244, type: 2}
+  - fireChar: {fileID: 9100000, guid: f7f4adcb357a0db4cbaad70fe690ff87, type: 2}
+  - metalChar: {fileID: 9100000, guid: 8937496a17fc30b4e8db780b85613f1d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
